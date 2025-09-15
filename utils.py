@@ -4,7 +4,7 @@ def percentage_calculator(percent, whole):
     else:
         return (percent/100) * whole
     
-def is_palindrome(s)
+def is_palindrome(s):
     word = s.replace(" ","")
     word = word.lower()
     word = word.lower()
