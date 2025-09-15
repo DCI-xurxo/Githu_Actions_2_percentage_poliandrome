@@ -1,4 +1,4 @@
-def porcentage_calculator(percent, whole):
+def percentage_calculator(percent, whole):
     if whole == 0:
         return 0
     else:

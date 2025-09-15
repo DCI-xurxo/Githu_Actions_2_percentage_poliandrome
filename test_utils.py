@@ -1,4 +1,4 @@
-from utils import porcentage_calculator, is_palindrome
+from utils import percentage_calculator, is_palindrome
 
 def test_percentage_calculator():
     assert test_percentage_calculator(20,10) == 2
